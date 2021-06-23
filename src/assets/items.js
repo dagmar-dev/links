@@ -5,7 +5,7 @@ import youtube from "../assets/images (3).jpeg";
 import dribbble from "../assets/dribbble.png";
 import github from "../assets/github.png";
 import telegram from "../assets/IMG_20201124_104554.png";
-import twitter from "../assets/twitter.png ";
+import twitter from "../assets/twitter.png";
 
 const items = [
   {
@@ -32,25 +32,25 @@ const items = [
     image: twitter,
     link: "https://twitter.com/dagmar_dev",
   },
-  {
-    title: "YouTube",
-    subtitle: "@Sagnik Sahoo | Official channel of mine",
-    image: youtube,
-    link: "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg",
-  },
+//   {
+//     title: "YouTube",
+//     subtitle: "@Sagnik Sahoo | Official channel of mine",
+//     image: youtube,
+//     link: "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg",
+//   },
 
-  {
-    title: "Dribbble",
-    subtitle: "@virtuonic | Hub to the Shots of my 😎 apps ",
-    image: dribbble,
-    link: "https://dribbble.com/virtuonic",
-  },
-  {
-    title: "Telegram",
-    subtitle: "@virtuonic | Chat with me instantly, Don't hesitate! ",
-    image: telegram,
-    link: "https://telegram.me/virtuonic",
-  },
-];
+//   {
+//     title: "Dribbble",
+//     subtitle: "@virtuonic | Hub to the Shots of my 😎 apps ",
+//     image: dribbble,
+//     link: "https://dribbble.com/virtuonic",
+//   },
+//   {
+//     title: "Telegram",
+//     subtitle: "@virtuonic | Chat with me instantly, Don't hesitate! ",
+//     image: telegram,
+//     link: "https://telegram.me/virtuonic",
+//   },
+// ];
 
 export default items;
