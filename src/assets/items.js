@@ -1,5 +1,5 @@
 import website from "../assets/website.png";
-import instagram from "../assets/instagram.png";
+import instagram from "../assets/instagram.png"; 
 import github from "../assets/github.png";
 import twitter from "../assets/twitter.png";
 
@@ -28,7 +28,6 @@ const items = [
     image: twitter,
     link: "https://twitter.com/dagmar_dev",
   },
-  {
 ];
 
 export default items;
