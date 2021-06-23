@@ -42,6 +42,6 @@ const items = [
 //     image: telegram,
 //     link: "https://telegram.me/virtuonic",
 //   },
-// ];
+];
 
 export default items;
