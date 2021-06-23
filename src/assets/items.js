@@ -1,8 +1,8 @@
 import website from "../assets/website.png";
 import instagram from "../assets/instagram.png";
-import youtube from "../assets/images (3).jpeg";
+// import youtube from "../assets/images (3).jpeg";
 import github from "../assets/github.png";
-import telegram from "../assets/IMG_20201124_104554.png";
+// import telegram from "../assets/IMG_20201124_104554.png";
 import twitter from "../assets/twitter.png";
 
 const items = [
@@ -31,17 +31,17 @@ const items = [
     link: "https://twitter.com/dagmar_dev",
   },
   {
-    title: "YouTube",
-    subtitle: "@Sagnik Sahoo | Official channel of mine",
-    image: youtube,
-    link: "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg",
-  },
-  {
-    title: "Telegram",
-    subtitle: "@virtuonic | Chat with me instantly, Don't hesitate! ",
-    image: telegram,
-    link: "https://telegram.me/virtuonic",
-  },
-];
+//     title: "YouTube",
+//     subtitle: "@Sagnik Sahoo | Official channel of mine",
+//     image: youtube,
+//     link: "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg",
+//   },
+//   {
+//     title: "Telegram",
+//     subtitle: "@virtuonic | Chat with me instantly, Don't hesitate! ",
+//     image: telegram,
+//     link: "https://telegram.me/virtuonic",
+//   },
+// ];
 
 export default items;
