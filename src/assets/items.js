@@ -9,7 +9,7 @@ const items = [
     title: "Contact",
     subtitle: "Save me in your contacts",
     image: phone,
-    link: "src/assets/Lewis_Dagmar.vcf",
+    link: "../assets/Lewis_Dagmar.vcf",
   },
   {
     title: "Portfolio",
