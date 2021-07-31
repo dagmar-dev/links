@@ -1,9 +1,16 @@
 import website from "../assets/website.png";
-import instagram from "../assets/instagram.png"; 
+import instagram from "../assets/instagram.png";
 import github from "../assets/github.png";
 import twitter from "../assets/twitter.png";
+import phone from "../assets/phone.png";
 
 const items = [
+  {
+    title: "Contact",
+    subtitle: "Save me in your contacts",
+    image: phone,
+    link: "src/assets/Lewis_Dagmar.vcf",
+  },
   {
     title: "Portfolio",
     subtitle: "Look at my work!",

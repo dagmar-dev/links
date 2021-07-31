@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.0//EN
+N:Lewis;Dagmar;;;
+FN:Dagmar Lewis
+ORG:Web Developer;
+EMAIL;type=INTERNET;type=WORK;type=pref:dagmarlewis@dagmar.dev
+TEL;type=CELL;type=VOICE;type=pref:(876) 298-5276
+item1.URL;type=pref:links.dagmar.dev
+item1.X-ABLabel:_$!<HomePage>!$_
+BDAY;X-APPLE-OMIT-YEAR=1604:1604-12-03
+END:VCARD
