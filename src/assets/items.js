@@ -2,20 +2,20 @@ import website from '../assets/website.png';
 import instagram from '../assets/instagram.png';
 import github from '../assets/github.png';
 import twitter from '../assets/twitter.png';
-import phone from '../assets/phone.png';
+
 
 const items = [
-    {
-        title: 'Contact',
-        subtitle: 'Save me in your contacts',
-        image: phone,
-        link: 'https://www.dagmar.dev/store/Lewis_Dagmar.vcf',
-    },
     {
         title: 'Portfolio',
         subtitle: 'Look at my work!',
         image: website,
         link: 'https://dagmar.dev/',
+    },
+    {
+        title: 'twitter',
+        subtitle: '@dagmar_dev | Hub of my thoughts',
+        image: twitter,
+        link: 'https://twitter.com/dagmar_dev',
     },
     {
         title: 'GitHub',
@@ -27,14 +27,8 @@ const items = [
         title: 'Instagram',
         subtitle: ' | Hub of my awesome 😎pics',
         image: instagram,
-        link: '',
+        link: 'https://www.instagram.com/dagmar.dev_/',
     },
-    {
-        title: 'twitter',
-        subtitle: '@dagmar_dev | Hub of my thoughts',
-        image: twitter,
-        link: 'https://twitter.com/dagmar_dev',
-    },
-];
+]
 
 export default items;
