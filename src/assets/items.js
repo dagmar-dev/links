@@ -2,7 +2,7 @@ import website from '../assets/website.png';
 import instagram from '../assets/instagram.png';
 import github from '../assets/github.png';
 import twitter from '../assets/twitter.png';
-
+import linkedin from '../assets/linkedin.png'
 
 const items = [
     {
@@ -18,6 +18,12 @@ const items = [
         link: 'https://twitter.com/dagmar_dev',
     },
     {
+        title: 'Linkedin',
+        subtitle: '@dagmar-dev | All the professional stuff',
+        image: linkedin,
+        link: 'https://www.linkedin.com/in/dagmar-dev/',
+    },
+    {
         title: 'GitHub',
         subtitle: '@dagmar-dev| 🏠 Personal Projects',
         image: github,
@@ -25,7 +31,7 @@ const items = [
     },
     {
         title: 'Instagram',
-        subtitle: ' | Hub of my awesome 😎pics',
+        subtitle: '@dagmar.dev_ | Hub of my awesome 😎pics',
         image: instagram,
         link: 'https://www.instagram.com/dagmar.dev_/',
     },
